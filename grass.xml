@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Grass (GRASS) Twitter Feed</title>
+    <link>https://twitter.com/grass</link>
+    <description>Unofficial feed for tweets from @grass</description>
+    <language>en-us</language>
+    <item>
+      <title>Grass to launch phase 2 of AI DePIN soon</title>
+      <link>https://twitter.com/grass/status/1</link>
+      <description>We’re excited to move into phase 2 of our DePIN rollout. Stay tuned for updates and potential rewards. #GRASS #DePIN</description>
+      <pubDate>Wed, 06 Aug 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New listing coming up?</title>
+      <link>https://twitter.com/grass/status/2</link>
+      <description>Some big news might be just around the corner 👀 #listing #airdrop</description>
+      <pubDate>Tue, 05 Aug 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reminder: Keep your node online</title>
+      <link>https://twitter.com/grass/status/3</link>
+      <description>Make sure your Grass node is active. Rewards snapshot is coming. #node #snapshot</description>
+      <pubDate>Mon, 04 Aug 2025 16:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
